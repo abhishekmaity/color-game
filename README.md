@@ -6,6 +6,6 @@ In this app you are given a set of colors and you need to guess the right one us
 Try it out youself at → https://rgb-game-of-colors.herokuapp.com/ ← 
 
 <p align="center">
-  <img src="https://github.com/abhishekmaity/color-game/blob/master/demo.png">
+  <img src="https://github.com/abhishekmaity/color-game/blob/master/demo.gif">
 </p>
 
